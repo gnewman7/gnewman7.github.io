@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gordon's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gnewman7/gnewman7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
